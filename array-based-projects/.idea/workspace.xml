@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="89198d04-15b6-415a-b1a5-5f00beebc4af" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/java Projects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Driving-licence/Driving-licence.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Driving-licence/lib/lombok-1.18.38.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Institute-trainee/lib/lombok-1.18.38.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Institute-trainee/src/com/chethan/instituteapp/InstituteRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Institute-trainee/src/com/chethan/instituteapp/institute/Institute.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Institute-trainee/src/com/chethan/instituteapp/trainee/Trainee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Institute-trainee/src/com/chethan/instituteapp/validation/TraineeValidation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../amazon-products/amazon-products.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../array/.idea/array.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bike-rental/bike-rental.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bug-tracking/bug-tracking.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../company-application/company-application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../facebook-app/facebook-app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hospital-application/hospital-application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hospital-application/lib/lombok-1.18.38.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hospital-management/hospital-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hotel-management/hotel-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../instagram-account/instagram-account.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../institute/institute.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../library-management/library-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../librarymanagement/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../librarymanagement/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../librarymanagement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../librarymanagement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../librarymanagement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../librarymanagement/lib/lombok-1.18.38.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../librarymanagement/librarymanagement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../librarymanagement/src/com/chethan/library/LibraryRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../librarymanagement/src/com/chethan/library/book/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../librarymanagement/src/com/chethan/library/management/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../librarymanagement/src/com/chethan/library/validation/Validate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../matrimony-application/matrimony-application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-seva/lib/lombok-1.18.38.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../passport-seva/passport-seva.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../play-store/play-store.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../police-station/police-station.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policestation-app/lib/lombok-1.18.38.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policestation-app/src/com/chethan/policestation/PoliceRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policestation-app/src/com/chethan/policestation/police/Police.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policestation-app/src/com/chethan/policestation/station/PoliceStation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../policestation-app/src/com/chethan/policestation/validation/Validation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../suprem-coure/suprem-coure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../traffic-management/traffic-management.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uservalidation_application/uservalidation_application.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../watch-app/watch-app.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="32EEtUvxT0VxwdbVTHUTon589Zy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="89198d04-15b6-415a-b1a5-5f00beebc4af" name="Changes" comment="" />
+      <created>1756977545543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756977545543</updated>
+    </task>
+    <servers />
+  </component>
+</project>

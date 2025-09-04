@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bike-rental/bike-rental.iml" filepath="$PROJECT_DIR$/bike-rental/bike-rental.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hospital-management/hospital-management.iml" filepath="$PROJECT_DIR$/hospital-management/hospital-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotel-management/hotel-management.iml" filepath="$PROJECT_DIR$/hotel-management/hotel-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java Projects.iml" filepath="$PROJECT_DIR$/.idea/java Projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/traffic-management/traffic-management.iml" filepath="$PROJECT_DIR$/traffic-management/traffic-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wire-system/wire-system.iml" filepath="$PROJECT_DIR$/wire-system/wire-system.iml" />
+    </modules>
+  </component>
+</project>
